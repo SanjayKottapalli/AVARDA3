@@ -1,0 +1,8 @@
+file_annotation=20180211_VirScan_annot.txt
+file_aln=aln_sparse_20180523.pkl
+zscore_file=LCL_day1.csv
+use_filter=no
+Z_threshold=10
+p_threshold=0.01
+x_threshold=2
+bh_threshold=0.05

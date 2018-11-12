@@ -1,0 +1,11 @@
+Number of species: 198
+Virus 1 of 198
+Virus 2 of 198
+Variables file: C:/Users/Sanjay/Documents/Larman Lab/AVARDA 3.0/input/variables_virus.txt
+Home directory: C:/Users/Sanjay/Documents/Larman Lab/AVARDA 3.0/
+Result directory: C:/Users/Sanjay/Documents/Larman Lab/AVARDA 3.0/results/
+Alignment file: C:/Users/Sanjay/Documents/Larman Lab/AVARDA 3.0/ref_seq/aln_sparse_20180523.pkl
+Z-score file: C:/Users/Sanjay/Documents/Larman Lab/AVARDA 3.0/input/LCL_day1.csv
+---------------------------------------------------------------
+Time to filter the alignment matrix: 4.494520196135706
+Singapore.Serum.Encephalitis.SNIP-TTSH-041-LCL_Day1.20A20G.1:	hits=840, nonoverlapped=285

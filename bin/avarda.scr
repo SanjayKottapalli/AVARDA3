@@ -1,0 +1,17 @@
+#!/bin/bash -l
+
+#SBATCH
+#SBATCH --job-name=AVARDA3_prob
+#SBATCH --time=72:0:0
+#SBATCH --partition=lrgmem
+#SBATCH --nodes=5
+#SBATCH --ntasks-per-node=48
+#SBATCH --mail-type=end
+#SBATCH --mail-user=skottap3@jhu.edu
+
+module load anaconda-python/3.6
+source activate my_root
+
+python prob_parallel_av3.py > AV3_prob.log
+echo "Finished with run"
+
